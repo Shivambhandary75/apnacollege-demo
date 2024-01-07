@@ -1,5 +1,5 @@
 # apnacollege-demo
 this is my first repo
 <br>
-author -shivam
+author -shivam S
 
